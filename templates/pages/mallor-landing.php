@@ -124,39 +124,33 @@
 
         <div class="lp-testimonials-grid">
 
-            <!-- TESTIMONIO REAL #1 — Reemplaza todo el contenido de esta tarjeta con la opinión real del cliente. -->
             <article class="lp-testimonial-card">
-                <div class="lp-testimonial-avatar" aria-hidden="true"><span>?</span></div>
+                <div class="lp-testimonial-avatar" aria-hidden="true"><span>L</span></div>
                 <div class="lp-testimonial-body">
                     <p class="lp-testimonial-quote">
-                        <em>Testimonio pendiente — aquí irá la experiencia real de un cliente de Mallor Contable.</em>
+                        &ldquo;Ahora es mucho más fácil llevar las cuentas. Registro ventas, gastos y préstamos, y todo queda reflejado en el cierre de caja. La facturación electrónica también la manejo desde el mismo sistema.&rdquo;
                     </p>
                     <footer class="lp-testimonial-meta">
-                        <strong>[Nombre del cliente]</strong>
-                        <span>[Tipo de negocio &middot; Ciudad]</span>
+                        <strong>Lucía</strong>
+                        <span>Empaques del Guaviare &middot; San José del Guaviare</span>
                     </footer>
                 </div>
             </article>
 
-            <!-- TESTIMONIO REAL #2 — Reemplaza todo el contenido de esta tarjeta con la opinión real del cliente. -->
             <article class="lp-testimonial-card">
-                <div class="lp-testimonial-avatar" aria-hidden="true"><span>?</span></div>
+                <div class="lp-testimonial-avatar" aria-hidden="true"><span>L</span></div>
                 <div class="lp-testimonial-body">
                     <p class="lp-testimonial-quote">
-                        <em>Testimonio pendiente — aquí irá la experiencia real de un cliente de Mallor Contable.</em>
+                        &ldquo;Me encanta la versión para celular. El flujo de ventas es muy rápido; antes me tocaba esperar que todo cargara.&rdquo;
                     </p>
                     <footer class="lp-testimonial-meta">
-                        <strong>[Nombre del cliente]</strong>
-                        <span>[Tipo de negocio &middot; Ciudad]</span>
+                        <strong>Leidy</strong>
+                        <span>Puerto Rico, Meta</span>
                     </footer>
                 </div>
             </article>
 
         </div>
-
-        <p class="lp-testimonials-note">
-            Próximamente — primeras opiniones de negocios del Sur del Meta y el Guaviare usando Mallor Contable.
-        </p>
     </div>
 </section>
 
@@ -233,23 +227,12 @@
             <div class="lp-info-card">
                 <div class="lp-info-icon" aria-hidden="true">
                     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="10"/>
-                        <polyline points="12 6 12 12 16 14"/>
-                    </svg>
-                </div>
-                <h3>Duración</h3>
-                <p class="lp-pending-text">Duración aproximada — <span class="lp-pending-tag">pendiente de confirmar</span></p>
-            </div>
-
-            <div class="lp-info-card">
-                <div class="lp-info-icon" aria-hidden="true">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
                         <circle cx="12" cy="10" r="3"/>
                     </svg>
                 </div>
                 <h3>Ubicación y modalidad</h3>
-                <p class="lp-pending-text">Dirección o modalidad (presencial / virtual) — <span class="lp-pending-tag">pendiente de confirmar</span></p>
+                <p>Atendemos negocios en el Guaviare y el Meta, de forma presencial o virtual según lo que te quede más cómodo.</p>
             </div>
 
             <div class="lp-info-card">
@@ -272,7 +255,7 @@
                     </svg>
                 </div>
                 <h3>Horario de atención</h3>
-                <p class="lp-pending-text">Horarios disponibles — <span class="lp-pending-tag">pendiente de confirmar</span></p>
+                <p>Respondemos lo más rápido posible. Escríbenos y te contestamos en cuanto podamos.</p>
             </div>
 
             <div class="lp-info-card lp-info-card-accent">
