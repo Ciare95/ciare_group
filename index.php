@@ -18,6 +18,11 @@ $routes = $site['routes'];
 $requestedPage = $_GET['page'] ?? parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH);
 $currentSlug = normalizeSlug($requestedPage);
 
+if ($currentSlug === 'inicio') {
+    header('Location: ' . urlFor('mallor-contable'), true, 301);
+    exit;
+}
+
 if (!array_key_exists($currentSlug, $routes)) {
     http_response_code(404);
     $currentSlug = '404';
