@@ -1,0 +1,11 @@
+# Leads locales (no subir datos personales al repo)
+data/leads.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
